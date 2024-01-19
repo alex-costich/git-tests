@@ -1,0 +1,6 @@
+Falta de comunicación en el equipo -> trabajo lento
+Falta de comunicación con el cliente -> producto insatisfactorio
+Falta de organización -> trabajo lento
+Falta de testing -> producto inestable
+Falta de control de calidad -> producto inestable/insatisfactorio
+Ausencia de contrato/rúbrica -> explotación!!!!
